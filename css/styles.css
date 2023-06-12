@@ -1,0 +1,44 @@
+body {
+    background: linear-gradient(to bottom, #200122, #6f0000);
+    font-size: 1.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+h1{
+    color: #fff;
+}
+label{
+    color: #fff;
+}
+
+form {
+    text-align: center;
+  }
+
+.frm-row input{
+    width: 50rem;
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    height: 25px;
+    font-size: 1.2rem;
+}
+
+button{
+    margin-top: 20px;
+    width: 20rem;
+    height: 40px;
+    font-size: 1rem;
+    border: none;
+    background-color: #fff;
+    border-radius: 10px;
+    color: #000;
+    font-weight: bold;
+}
