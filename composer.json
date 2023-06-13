@@ -1,5 +1,5 @@
 {
-    "name": "seduc/digital-cep",
+    "name": "PC/digital-cep",
     "description": "Busca de CEP online",
     "type": "library",
     "require": {
@@ -10,7 +10,7 @@
         "psr-0": {
             "Search": "src/"
         }, "psr-4": {
-            "seduc\\DigitalCep\\": "src/"
+            "PC\\DigitalCep\\": "src/"
         }
     },
     "require-dev": {
